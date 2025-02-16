@@ -1,0 +1,51 @@
+product_id,company_name,name,category,quantity,price
+1,Samsung,Galaxy A5,Smartphones,25,18000
+2,Dell,Latitude 5500,Laptops,15,65000
+3,Apple,Air M3,Laptops,10,90000
+4,Smart,Watch Pro,Wearables,30,12000
+5,Sony,WH-1000XM4,Headphones,20,28000
+6,HP,Envy x360,Laptops,12,78000
+7,Samsung,"QLED TV 55""",Televisions,8,110000
+8,JBL,Flip 5,Speakers,50,9000
+9,Apple,iPhone 14,Smartphones,18,78000
+10,Dell,Inspiron 3501,Laptops,20,55000
+11,Realme,Buds Q2,Earbuds,40,2500
+12,Lenovo,Ideapad Gaming 3,Laptops,10,65000
+13,MI,Smart Band 7,Wearables,35,3500
+14,OnePlus,Nord CE 3 Lite,Smartphones,30,21999
+15,Bose,Soundbar 300,Speakers,7,45000
+16,LG,"OLED TV 65""",Televisions,5,150000
+17,Logitech,MX Master 3,Accessories,25,7000
+18,Samsung,Galaxy Tab S7,Tablets,12,55000
+19,Redmi,Note 12 Pro,Smartphones,25,24000
+20,Asus,ROG Zephyrus G14,Laptops,8,140000
+21,Fire-Boltt,Ninja 3,Wearables,50,1999
+22,Sony,"Bravia 43"" TV",Televisions,10,48000
+23,Philips,Hue Smart Bulb,Smart Home,35,2500
+24,Apple,AirPods Pro 2,Earbuds,20,24000
+25,HP,Omen 16,Laptops,15,125000
+26,Vivo,V27 Pro,Smartphones,22,37000
+27,Sony,PS5 Console,Gaming Consoles,6,55000
+28,MI,4K TV Stick,Smart Devices,40,3999
+29,Samsung,Galaxy Z Fold 5,Smartphones,12,160000
+30,Canon,EOS 200D Mark II,Cameras,8,57000
+31,Samsung,Soundbar HW-Q800B,Speakers,10,49999
+32,OnePlus,Pad,Tablets,15,39000
+33,Amazon,Echo Dot 5th Gen,Smart Home,30,4500
+34,Acer,Nitro 5 Gaming,Laptops,12,72000
+35,Oppo,Enco X2,Earbuds,25,10999
+36,Samsung,"Frame TV 50""",Televisions,8,90000
+37,Fitbit,Versa 4,Wearables,18,21999
+38,Lenovo,ThinkPad E14 Gen 4,Laptops,10,88000
+39,Realme,Narzo 60 Pro,Smartphones,30,29000
+40,Logitech,G502 Hero,Accessories,20,4500
+41,Samsung,T7 Portable SSD,Storage,40,7500
+42,Sony,Alpha 7 IV,Cameras,6,220000
+43,Zebronics,Zeb-Juke Bar,Speakers,25,8000
+44,Microsoft,Surface Laptop 5,Laptops,8,125000
+45,Dell,G15 Gaming,Laptops,15,85000
+46,Realme,Smart Cam 36,Smart Home,20,3499
+47,Bose,QuietComfort Earbuds,Earbuds,15,28000
+48,MI,Robot Vacuum Mop P,Smart Devices,12,24999
+49,Sony,WF-1000XM5,Earbuds,20,19999
+50,Apple,MacBook Air M2,Laptops,10,105000
